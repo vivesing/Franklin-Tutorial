@@ -1,5 +1,6 @@
-# Your Project's Title...
-Your project's description...
+# Franklin Tutorial Porject
+created on 17th feb with vivesing@adobe.com drive
+Folder: Franklin Tutorial
 
 ## Environments
 - Preview: https://main--franklin-tutorial--vivesing.hlx.page/
